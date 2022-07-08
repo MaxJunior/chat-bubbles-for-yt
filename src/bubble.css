@@ -9,12 +9,14 @@
   padding: 12px 20px;
   margin-top: 5px;
   margin-bottom: 5px;
+  border-bottom: 5px black solid;
 }
 
 .bubble-content {
   margin-right: 25%;
   background-color: #eee;
   position: relative;
+  border-bottom: 5px black solid;
 }
 
 .bubble:last-child .bubble-content:before,
