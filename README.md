@@ -1,6 +1,6 @@
 ![cover](./cover.jpg)
 
-Chat bubble tool for YouTube (Orginal Autor : )
+Chat bubble tool for YouTube (Orginal Autor https://github.com/craftzdog  )
 ============================
 
 A tool for recording typing animations and sounds with imitated chat UI.
